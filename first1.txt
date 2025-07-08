@@ -1,0 +1,4 @@
+first we create a one folder for github 
+after we can connect to the respository
+after we can add commit to the file 
+this is the basic things of doing in github
