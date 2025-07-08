@@ -1,0 +1,7 @@
+hi now we crete a file in local file to share this file to the github account
+
+first untrack file to convert traker file
+
+after we commit the file 
+
+after push the file to the github
